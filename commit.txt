@@ -1,0 +1,7 @@
+echo "# teste2" >> README.md
+git init
+git add README.md
+git commit -m "first commit3"
+git branch -M main
+git remote add origin https://github.com/gitbrunoholanda/Cypress1.git
+git push -u origin maingit
